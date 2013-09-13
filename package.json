@@ -1,0 +1,31 @@
+{
+	"name": "rfc822-date",
+	"description": "Convert dates to rfc822 format",
+	"version": "0.0.1",
+	"author": {
+		"name": "Thomas Jensen",
+		"email": "thomas@tjconcept.dk",
+		"url": "http://tjconcept.dk"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/mit-license.php"
+		}
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tjconcept/js-rfc822-date.git"
+	},
+	"keywords": [
+		"rfc822",
+		"rfc-822",
+		"date"
+	],
+	"dependencies": {
+		"numpad": "*"
+	},
+	"readmeFilename": "README.md",
+	"main": "./index"
+}
