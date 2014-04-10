@@ -7,12 +7,6 @@
 		"email": "thomas@tjconcept.dk",
 		"url": "http://tjconcept.dk"
 	},
-	"licenses": [
-		{
-			"type": "MIT",
-			"url": "http://www.opensource.org/licenses/mit-license.php"
-		}
-	],
 	"license": "MIT",
 	"repository": {
 		"type": "git",
