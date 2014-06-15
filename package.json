@@ -18,7 +18,7 @@
 		"date"
 	],
 	"dependencies": {
-		"numpad": "*"
+		"numpad": "~0.0.1"
 	},
 	"readmeFilename": "README.md",
 	"main": "./index"
