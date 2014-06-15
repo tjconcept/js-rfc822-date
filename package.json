@@ -1,7 +1,7 @@
 {
 	"name": "rfc822-date",
 	"description": "Convert dates to rfc822 format",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": {
 		"name": "Thomas Jensen",
 		"email": "thomas@tjconcept.dk",
