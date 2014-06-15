@@ -1,6 +1,6 @@
 # rfc822-date
 
-	Convert a Date object to a rfc-822 date string
+Convert a Date object to a rfc-822 date string
 
 ## usage
 
@@ -10,4 +10,4 @@
 
 ## License
 
-	MIT
+[MIT](http://opensource.org/licenses/MIT) © [Thomas Jensen](http://tjconcept.dk)
